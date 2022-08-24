@@ -1,0 +1,25 @@
+{
+  "name": "dinosaur-generator",
+  "version": "1.0.0",
+  "description": "First Node.js App",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/supermarsgalaxy/Dinosaur-Generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/supermarsgalaxy/Dinosaur-Generator/issues"
+  },
+  "homepage": "https://github.com/supermarsgalaxy/Dinosaur-Generator#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
